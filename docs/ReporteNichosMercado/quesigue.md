@@ -4,10 +4,7 @@ sidebar_position: 4
 
 # ¿Que es lo que sigue?
 
-- Read the [official documentation](https://docusaurus.io/)
-- Modify your site configuration with [`docusaurus.config.js`](https://docusaurus.io/docs/api/docusaurus-config)
-- Add navbar and footer items with [`themeConfig`](https://docusaurus.io/docs/api/themes/configuration)
-- Add a custom [Design and Layout](https://docusaurus.io/docs/styling-layout)
-- Add a [search bar](https://docusaurus.io/docs/search)
-- Find inspirations in the [Docusaurus showcase](https://docusaurus.io/showcase)
-- Get involved in the [Docusaurus Community](https://docusaurus.io/community/support)
+- Comenzar a ejecutar el plan de contenido según el nicho de mercado.
+- Crear contenido para las redes sociales de NetHouse, tales como reels, videos y promociones.
+- Uso de Inteligencia Artificial para generar contenido de forma masiva y variada.
+- Enfocar una comunidad de usuarios y/o clientes que se ajusten al nicho de mercado de la domótica.

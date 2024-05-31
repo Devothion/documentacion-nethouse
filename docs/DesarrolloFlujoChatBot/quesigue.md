@@ -4,10 +4,7 @@ sidebar_position: 4
 
 # ¿Que es lo que sigue?
 
-- Read the [official documentation](https://docusaurus.io/)
-- Modify your site configuration with [`docusaurus.config.js`](https://docusaurus.io/docs/api/docusaurus-config)
-- Add navbar and footer items with [`themeConfig`](https://docusaurus.io/docs/api/themes/configuration)
-- Add a custom [Design and Layout](https://docusaurus.io/docs/styling-layout)
-- Add a [search bar](https://docusaurus.io/docs/search)
-- Find inspirations in the [Docusaurus showcase](https://docusaurus.io/showcase)
-- Get involved in the [Docusaurus Community](https://docusaurus.io/community/support)
+- Implementación de Chatbot para el entorno de producción de NetHouse, Web (Live Chat) y CRM.
+- Evaluación para una integración con herramientas de Inteligencia Artificial avanzada como OpenAI.
+- Una vez mas, la definición del avatar y nombre del Chatbot, por el momento parecemos estar de acuerdo.
+- Testing de comportamiento del Chatbot en la interacción con los usuarios.

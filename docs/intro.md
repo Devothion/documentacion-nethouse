@@ -12,11 +12,12 @@ En esta documentación vamos a detallar mis avances realizados para NetHouse, ha
 
 ## Estructura de documentación
 
-Esta documentación estará dividida en 5 partes:
+Esta documentación estará dividida en 4 partes:
 
 - Localización y plan de despliegue de CRM.
 - Desarrollo de flujo de Chatbot.
 - Opción de Woobot Chatbot Pro Max.
-- Reporte de nichos de mercado.
-- Estrategia y plan de contenido.
+- Reporte de nichos de mercado y plan de contenido.
+
+Puedes descargar el resumen de este reporte como [Word Doc](INFORME%20DE%20AVANCE.docx)
 

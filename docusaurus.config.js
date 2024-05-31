@@ -89,46 +89,43 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Facebook',
+                href: 'https://web.facebook.com/profile.php?id=100008339140683',
+              },
+              {
+                label: 'Outlook',
+                href: 'mailto:juliocesar-1505@outlook.com',
               },
             ],
           },
           {
-            title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Instagram',
+                href: 'https://www.instagram.com/julio_espinoza15/',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'WhatsApp',
+                href: 'https://wa.me/51964829677',
               },
             ],
           },
           {
-            title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Portfolio Web',
+                href: 'https://julio-espinoza.netlify.app/',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/Devothion',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Documentación de avances, Julio Espinoza.`,
       },
       prism: {
         theme: prismThemes.github,

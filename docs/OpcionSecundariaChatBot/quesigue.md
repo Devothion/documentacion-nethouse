@@ -4,10 +4,6 @@ sidebar_position: 5
 
 # ¿Que es lo que sigue?
 
-- Read the [official documentation](https://docusaurus.io/)
-- Modify your site configuration with [`docusaurus.config.js`](https://docusaurus.io/docs/api/docusaurus-config)
-- Add navbar and footer items with [`themeConfig`](https://docusaurus.io/docs/api/themes/configuration)
-- Add a custom [Design and Layout](https://docusaurus.io/docs/styling-layout)
-- Add a [search bar](https://docusaurus.io/docs/search)
-- Find inspirations in the [Docusaurus showcase](https://docusaurus.io/showcase)
-- Get involved in the [Docusaurus Community](https://docusaurus.io/community/support)
+- Por seguridad se recomienda tener guardado esta opción inmediata que ya esta configurada para el uso de NetHouse.
+- Este plugin también tiene la posibilidad de integrar sus respuestas con API de OpenAI, y una mejor integración y compatibilidad con Google DialogFlow.
+- Estar atento a evaluar la activación de este plugin en caso de necesidad, como una solución rápida.
